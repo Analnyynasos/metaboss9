@@ -1,0 +1,44 @@
+{
+  "name": "Okay Bear #8070",
+  "symbol": "DEGENS",
+  "description": "Okay Bears is a culture shift. A clean collection of 10,000 diverse bears building a virtuous community that will transcend the internet into the real world.",
+  "seller_fee_basis_points": 2000,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://bafybeiah2inxo4hgvlthqdls7ybjelh2oovo6jqr2tkqwr4hynlkz3tdoa.ipfs.dweb.link/8069.png?ext=png",
+  "attributes": [
+{
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Andean"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gaiter"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Glow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Insulated Jacket"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FZ9XCR9S7zWiAupBms1T6wXpH2MEkZxtREy2UroxdU3J",
+        "share": 100
+      }
+    ]
+  }
+}
